@@ -1,1 +1,1 @@
-Before starting exe8 please carefully read exe8.pdf.
+Before starting exericise 8 please carefully read the tutorial file ex8.pdf.
